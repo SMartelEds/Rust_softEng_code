@@ -1,0 +1,8 @@
+1,Alice,23,88.5,active
+2,Bob,,71.0,inactive
+3,Charlie,19,,active
+bad,line
+4,Diana,200,91.0,active
+5,Eve,30,95.0,ACTIVE
+6,,20,40.0,active
+7,Frank,22,66.0,unknown
